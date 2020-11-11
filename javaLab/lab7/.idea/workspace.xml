@@ -19,7 +19,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6d9d80a-43bc-4eb0-bc04-4b9848b5f74b" name="Default Changelist" comment="" />
+    <list default="true" id="c6d9d80a-43bc-4eb0-bc04-4b9848b5f74b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab5_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab6_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab9/lab9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/out/production/lab5/lab5_pac/lolGraphics.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/out/production/lab5/lab5_pac/lolGraphics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/out/production/lab6/lab6_pac/GProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/out/production/lab6/lab6_pac/GProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/lab6_pac/GProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/src/lab6_pac/GProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6_1/out/production/lab6_1/lab6_pac/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab6_1/out/production/lab6_1/lab6_pac/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6_1/src/lab6_pac/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab6_1/src/lab6_pac/TestClass.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +69,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab8" />
   </component>
   <component name="RunManager">
     <configuration name="testClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -92,8 +112,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="513" y="187" key="FileChooserDialogImpl" timestamp="1604921011302">
+      <screen x="0" y="0" width="1463" height="864" />
+    </state>
+    <state x="513" y="187" key="FileChooserDialogImpl/0.0.1463.864@0.0.1463.864" timestamp="1604921011302" />
     <state width="1392" height="292" key="GridCell.Tab.0.bottom" timestamp="1604747829823">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>

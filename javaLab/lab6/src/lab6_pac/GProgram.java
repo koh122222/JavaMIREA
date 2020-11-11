@@ -12,9 +12,9 @@ class GProgram extends JFrame {
     void process()
     {
         try {
-            int t = Integer.parseInt(input.getText());
+            int writeNumber = Integer.parseInt(input.getText());
 
-            if (t > rand)
+            if (writeNumber > rand)
                 JOptionPane.showMessageDialog(
                         null,
                         String.format("The number you are looking for is smaller.\n" +
@@ -22,7 +22,7 @@ class GProgram extends JFrame {
                         "Result",
                         JOptionPane.INFORMATION_MESSAGE);
 
-            else if (t < rand)
+            else if (writeNumber < rand)
                 JOptionPane.showMessageDialog(
                         null,
                         String.format("The number you are looking for is larger.\n" +
@@ -46,14 +46,16 @@ class GProgram extends JFrame {
 
     public GProgram() {
         super("lab 6");
-        super.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 
         setSize(300, 100);
-        setLayout(new FlowLayout());
 
-        add(input);
-        add(button);
+        JPanel grid = new JPanel();
+        GridLayout layout = new GridLayout(2, 1);
+        grid.setLayout(layout);
 
+        grid.add(input);
+        grid.add(button);
+        setContentPane(grid);
         button.addActionListener(t -> {
             process();
         });
